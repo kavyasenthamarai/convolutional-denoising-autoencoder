@@ -130,11 +130,11 @@ print("212222230065")
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/Rama-Lekshmi/convolutional-denoising-autoencoder/assets/118541549/a0961770-62bf-4480-ab56-ebbec56668f5)
+![image](https://github.com/kavyasenthamarai/convolutional-denoising-autoencoder/assets/118668727/5a2a7320-9271-4dbd-9aa5-a93002bec687)
 
 ### Original vs Noisy Vs Reconstructed Image
 
-![image](https://github.com/Rama-Lekshmi/convolutional-denoising-autoencoder/assets/118541549/ab866a23-bc42-4eaa-8876-2ff825bf024f)
+![image](https://github.com/kavyasenthamarai/convolutional-denoising-autoencoder/assets/118668727/a20870be-75e9-4690-881f-fa60a6d627d2)
 
 
 
