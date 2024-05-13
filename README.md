@@ -36,8 +36,8 @@ Plot the predictions for visualization.
 
 ## PROGRAM
 ```py
-Developed by: Rama E.K. Lekshmi
-Register no.: 212222240082
+Developed by: KAVYA K
+Register no.: 212222230065
 
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -67,6 +67,8 @@ for i in range(1, n + 1):
     ax.get_xaxis().set_visible(False)
     ax.get_yaxis().set_visible(False)
 plt.show()
+print("KAVYA K")
+print("212222240082")
 input_img = keras.Input(shape=(28, 28, 1))
 
 # Write your encoder here
@@ -120,6 +122,8 @@ for i in range(1, n + 1):
     ax.get_xaxis().set_visible(False)
     ax.get_yaxis().set_visible(False)
 plt.show()
+print("KAVYA K")
+print("212222230065")
 ```
 
 ## OUTPUT
